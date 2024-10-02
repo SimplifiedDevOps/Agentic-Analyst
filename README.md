@@ -22,7 +22,7 @@ https://github.com/Wilson-ZheLin/Streamline-Analyst/assets/145169519/1d30faca-f4
 **Demo link available at**: [Agentic Analyst](https://streamline.streamlit.app)
 
 Current Version Features
-------------------------
+-------------------------
 * **Target Variable Identification**: LLMs adeptly pinpoint the target variable
 * **Null Value Management**: Choose from a variety of strategies such as mean, median, mode filling, interpolation, or introducing new categories for handling missing data, all recommended by LLMs
 * **Data Encoding Tactics**: Automated suggestions and completions for the best encoding methods, including one-hot, integer mapping, and label encoding
