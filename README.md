@@ -97,6 +97,4 @@ pip install -r requirements.txt
 
 2. Run `app.py` on your local machine
 
-```
-streamlit run app.py
-```
+
